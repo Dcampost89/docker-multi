@@ -21,4 +21,3 @@ after_success:
   - docker push dcampost89/multi-client
   - docker push dcampost89/multi-nginx
   - docker push dcampost89/multi-server
-  - docker push dcampost89/multi-worker
